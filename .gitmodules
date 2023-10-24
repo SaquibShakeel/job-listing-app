@@ -1,0 +1,6 @@
+[submodule "jobListing-frontend"]
+	path = jobListing-frontend
+	url = https://github.com/SaquibShakeel/jobListing-frontend.git
+[submodule "jobListing"]
+	path = jobListing
+	url = https://github.com/SaquibShakeel/jobListing.git
